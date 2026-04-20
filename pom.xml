@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>EjerciciosArreglos</artifactId>
+=======
+    <artifactId>MiTiendaApp</artifactId>
+>>>>>>> 7bf38966883b056a6d2f3f5ac76d137462ce5e2f
     <version>1.0-SNAPSHOT</version>
 
     <properties>
